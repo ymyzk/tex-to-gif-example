@@ -1,0 +1,3 @@
+[submodule "tex-to-gif"]
+	path = tex-to-gif
+	url = https://github.com/ymyzk/tex-to-gif.git
